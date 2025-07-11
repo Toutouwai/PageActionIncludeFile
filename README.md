@@ -6,7 +6,7 @@ This can be useful for quickly applying API processing to pages without going to
 
 ## Usage
 
-The module creates a folder at `/site/templates/PageActionIncludeFile/` on install. Place your PHP files inside this folder. Within the file, the `$item` variable refers to the page that is currently being processed. There is no need to save the page within your code because Lister Pro does this automatically.
+The module creates a folder at `/site/templates/PageActionIncludeFile/` on install. Place your PHP files inside this folder. Within each file, the `$item` variable refers to the page that is currently being processed. There is no need to save the page within your code because Lister Pro does this automatically.
 
 Example action file: `append_foo_to_page_title.php`
 ```php
