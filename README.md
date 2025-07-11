@@ -14,7 +14,7 @@ Example action file: `append_foo_to_page_title.php`
 /** @var Page $item */
 
 // Append " foo" to page title
-$item->title .= " foo";;
+$item->title .= " foo";
 ```
 
 Enable the PageActionIncludeFile action in the config of one or more Lister Pro instances.
