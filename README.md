@@ -25,4 +25,4 @@ In the Lister Pro instance, set the filters or select the pages as needed and th
 
 ![PageActionIncludeFile image 2](https://github.com/user-attachments/assets/11880995-032a-4348-8bb2-aa1647f39731)
 
-Click "Execute" apply the action.
+Click "Execute" to apply the action.
